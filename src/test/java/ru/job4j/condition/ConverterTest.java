@@ -3,8 +3,7 @@ package ru.job4j.condition;
 import org.junit.Assert;
 import org.junit.Test;
 
-import static ru.job4j.condition.Converter.rubleToDollar;
-import static ru.job4j.condition.Converter.rubleToEuro;
+import static ru.job4j.condition.Converter.*;
 
 public class ConverterTest {
 
