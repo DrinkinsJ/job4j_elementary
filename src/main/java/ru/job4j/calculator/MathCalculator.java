@@ -1,10 +1,6 @@
 package ru.job4j.calculator;
 
-
-import static ru.job4j.math.MathFunction.diff;
-import static ru.job4j.math.MathFunction.div;
-import static ru.job4j.math.MathFunction.multiply;
-import static ru.job4j.math.MathFunction.sum;
+import static ru.job4j.math.MathFunction.*;
 
 public class MathCalculator {
     
