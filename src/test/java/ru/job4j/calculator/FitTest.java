@@ -9,7 +9,7 @@ import static ru.job4j.calculator.Fit.womanWeight;
 public class FitTest {
 
     @Test
-    public void whenHeight197dot5When120dot3333Weight() {
+    public void whenHeight197dot5When112dot1249Weight() {
         double height = 197.5;
         double expected = 112.1249;
         double actual = manWeight(height);
@@ -17,7 +17,7 @@ public class FitTest {
     }
 
     @Test
-    public void whenHeight157dot5When55dot3333Weight() {
+    public void whenHeight157dot5When54dot6249Weight() {
         double height = 157.5;
         double expected = 54.6249;
         double actual = womanWeight(height);
