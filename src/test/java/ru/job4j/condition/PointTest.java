@@ -30,7 +30,7 @@ public class PointTest {
     }
 
     @Test
-    public void when10to50then0() {
+    public void when10to50then4() {
         double expected = 4.0;
         int x1 = 1;
         int y1 = 0;
